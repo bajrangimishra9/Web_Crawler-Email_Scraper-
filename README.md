@@ -9,3 +9,8 @@ This project will take the website address as input by use and extracts all the 
     Code:-
 
 ![image](https://github.com/bajrangimishra9/Web_Crawler-Email_Scraper-/assets/155826931/294fe462-4bdd-43be-8f61-6b8f307f1332)
+
+
+    Some Outputs:-
+
+![image](https://github.com/bajrangimishra9/Web_Crawler-Email_Scraper-/assets/155826931/c4983632-1306-4285-8e4d-f18a5d9e23cc)
